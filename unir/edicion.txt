@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Edicion 1ç
 edicion 2
+=======
+Comenzamos de nuevo con las ediciones T.T
+Estoy cansado jefe.
+OJ
+>>>>>>> practicando
